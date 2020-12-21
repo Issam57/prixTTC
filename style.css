@@ -1,0 +1,8 @@
+body {
+    background: linear-gradient(rgb(0, 81, 128), #9198e5);
+    min-height: 100vh;
+}
+
+h1 {
+    color: white;
+}
